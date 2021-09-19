@@ -1,0 +1,13 @@
+{
+
+    "searchField":"#search_query_top",
+    "resultsDropdown":".ac_results",
+    "tShirtsLinkText":"#block_top_menu > ul > li:nth-child(3)",
+    "largeSizeCheckbox":"#layered_id_attribute_group_3",
+    "contactUsPageLink":"#contact-link",
+    "fileUploadFieldID":"#fileUpload",
+    "fileUploadFieldClass":".filename",
+    "continueShoppingButton":"span[title='Continue shopping']",
+    "cartQuantity":"[title=\"View my shopping cart\"] > .ajax_cart_quantity"
+    
+}
